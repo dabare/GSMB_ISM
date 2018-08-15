@@ -2,151 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae0c708c-533c-44c4-b376-c0091e1ad8bf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/analysis.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/chart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/css/app.v2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/css/font.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/dashboard-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/dashboard-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/docs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/fontawesome-webfontba72.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/fontawesome-webfontba72.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/fontawesome-webfontba72.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/fontawesome-webfontba72.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/fontawesome-webfontd41d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/glyphicons-halflings-regular-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/glyphicons-halflings-regular-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/glyphicons-halflings-regular-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/glyphicons-halflings-regular.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/glyphicons-halflings-regulard41d.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/opensans/opensans-bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/opensans/opensans-light.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/fonts/opensans/opensans.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/images/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/images/avatar_default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/images/ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/images/thumb_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/images/thumb_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/images/thumb_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/app.v2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/apps/notes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/apps/tasks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/calendar/bootstrap_calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/calendar/bootstrap_calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/calendar/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/charts/flot/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/charts/flot/jquery.flot.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/charts/flot/jquery.flot.orderBars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/charts/flot/jquery.flot.pie.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/charts/flot/jquery.flot.resize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/charts/flot/jquery.flot.tooltip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/charts/morris/morris.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/charts/morris/raphael-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/combodate/combodate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/datatables/datatables.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/datatables/jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/datepicker/bootstrap-datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/datepicker/datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/file-input/bootstrap.file-input.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/fuelux/fuelux.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/fuelux/fuelux.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/fullcalendar/fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/fullcalendar/fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/grid/gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/grid/gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/grid/jquery.grid-a-licious.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/jquery-ui-1.10.3.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/jquery.ui.touch-punch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/libs/backbone-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/libs/backbone.localStorage-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/libs/jquery.pjax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/libs/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/libs/underscore-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/maps/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/maps/gmaps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/markdown/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/markdown/epiceditor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/nestable/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/nestable/jquery.nestable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/nestable/nestable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/parsley/parsley.extend.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/parsley/parsley.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/dark_rounded/btnNext.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/dark_rounded/btnPrevious.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/dark_rounded/contentPattern.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/dark_rounded/loader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/dark_rounded/sprite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/dark_square/btnNext.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/dark_square/btnPrevious.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/dark_square/loader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/dark_square/sprite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/default/default_thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/default/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/default/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/default/sprite_next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/default/sprite_prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/default/sprite_x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/default/sprite_y.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/facebook/btnNext.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/facebook/btnPrevious.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/facebook/contentPatternBottom.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/facebook/contentPatternLeft.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/facebook/contentPatternRight.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/facebook/contentPatternTop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/facebook/default_thumbnail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/facebook/loader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/facebook/sprite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/jquery.prettyPhoto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/light_rounded/btnNext.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/light_rounded/btnPrevious.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/light_rounded/loader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/light_rounded/sprite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/light_square/btnNext.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/light_square/btnPrevious.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/light_square/sprite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/prettyphoto/prettyPhoto.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/select2/select2-spinner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/select2/select2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/select2/select2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/select2/select2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/select2/select2x2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/slider/bootstrap-slider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/slider/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/slimscroll/jquery.slimscroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/sortable/jquery.sortable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/wysiwyg/bootstrap-wysiwyg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/wysiwyg/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/js/wysiwyg/jquery.hotkeys.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/mail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/maps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/master.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/modal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/modal.lockme.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/notes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/pjax" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/portlet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/signin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/signup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/table.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/tasks.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/404.html" afterPath="$PROJECT_DIR$/temp/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/blog.html" afterPath="$PROJECT_DIR$/temp/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/buttons.html" afterPath="$PROJECT_DIR$/temp/buttons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/calendar.html" afterPath="$PROJECT_DIR$/temp/calendar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/icons.html" afterPath="$PROJECT_DIR$/temp/icons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/index.html" afterPath="$PROJECT_DIR$/temp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/invoice.html" afterPath="$PROJECT_DIR$/temp/invoice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/profile.html" afterPath="$PROJECT_DIR$/temp/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/timeline.html" afterPath="$PROJECT_DIR$/temp/timeline.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/widgets.html" afterPath="$PROJECT_DIR$/temp/widgets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/login.html" afterPath="$PROJECT_DIR$/core/login.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -160,22 +17,55 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="19" column="72" lean-forward="false" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/core/index.html">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="793">
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_two_columns.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp/login_two_columns.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -185,6 +75,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/login.html" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1412" />
@@ -207,8 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,13 +126,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSMB_ISM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GSMB_ISM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -433,33 +347,41 @@
       <option name="presentableId" value="Default" />
       <updated>1534307919843</updated>
     </task>
+    <task id="LOCAL-00001" summary="add login">
+      <created>1534317096060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534317096060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1412" y="21" width="1634" height="1029" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20024799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="MaxCompute Job" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="MaxCompute Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20024799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Job" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -467,13 +389,45 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add login" />
+    <option name="LAST_COMMIT_MESSAGE" value="add login" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -482,8 +436,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="72" lean-forward="false" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/login_two_columns.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
