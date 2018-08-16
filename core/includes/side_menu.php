@@ -26,19 +26,19 @@
 					<a href="index.php"><i class="fa fa-th-large"></i> <span class="nav-label">Dashboards</span></a>
 				</li>
 				<li>
-					<a href="mrn.php"><i class="fa fa-users"></i> <span class="nav-label">MRN</span></a>
+					<a href="mrns.php"><i class="fa fa-users"></i> <span class="nav-label">MRN</span></a>
 				</li>
 				<li>
-					<a href="prn.php"><i class="fa fa-users"></i> <span class="nav-label">PRN</span></a>
+					<a href="prns.php"><i class="fa fa-users"></i> <span class="nav-label">PRN</span></a>
 				</li>
 				<li>
-					<a href="po.php"><i class="fa fa-users"></i> <span class="nav-label">PO</span></a>
+					<a href="pos.php"><i class="fa fa-users"></i> <span class="nav-label">PO</span></a>
 				</li>
 				<li>
-					<a href="grn.php"><i class="fa fa-users"></i> <span class="nav-label">GRN</span></a>
+					<a href="grns.php"><i class="fa fa-users"></i> <span class="nav-label">GRN</span></a>
 				</li>
 				<li>
-					<a href="mtn.php"><i class="fa fa-users"></i> <span class="nav-label">MTN</span></a>
+					<a href="mtns.php"><i class="fa fa-users"></i> <span class="nav-label">MTN</span></a>
 				</li>
 				<li>
 					<a href="categories.php"><i class="fa fa-users"></i> <span class="nav-label">Item Categories</span></a>
