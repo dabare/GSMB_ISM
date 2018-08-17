@@ -1,25 +1,39 @@
 <!DOCTYPE html>
 <html>
-    <head>
+<head>
 
-        <?php require_once("includes/head.php") ?>
+    <?php require_once("includes/head.php") ?>
 
 
-    </head>
-
+</head>
+<body>
 
     <div id="wrapper">
         <?php require_once("includes/side_menu.php") ?>
 
         <div id="page-wrapper" class="gray-bg dashbard-1">
-            <?php require_once("includes/header_bar.php") ?>
+         <?php require_once("includes/header_bar.php") ?>
+
+            <div class="row wrapper border-bottom white-bg page-heading">
+                <div class="col-lg-8">
+                    <h2>Suppliers</h2>
+                    <ol class="breadcrumb">
+                        <li>
+                            <a href="index.php">Home</a>
+                        </li>
+                        <li class="active">
+                            <strong>Suppliers</strong>
+                        </li>
+                    </ol>
+                </div>
+            </div>
 
             <div class="wrapper wrapper-content  animated fadeInRight">
                 <div class="row">
                     <div class="col-sm-8">
                         <div class="ibox">
                             <div class="ibox-content">
-                                <h2>Suppliers</h2>
+                                <h2>System Users</h2>
 
                                 <div class="input-group">
                                     <input type="text" placeholder="Search client " class="input form-control">
@@ -132,7 +146,7 @@
                                                             </tr>
                                                             <tr>
                                                                 <td class="client-avatar"><a href="#"><img alt="image" src="img/a5.jpg"></a> </td>
-                                                                <td><a data-toggle="tab" href="#contact-3" class="client-link">Edan Randall</a></td>
+                                                                <td><a data-toggle="tab" href="#contact-3"class="client-link">Edan Randall</a></td>
                                                                 <td>Integer Sem Corp.</td>
                                                                 <td class="contact-type"><i class="fa fa-phone"> </i></td>
                                                                 <td> +422 600 213</td>
@@ -225,7 +239,7 @@
 
                                                 <div class="m-b-sm">
                                                     <img alt="image" class="img-circle" src="img/a2.jpg"
-                                                         style="width: 62px">
+                                                    style="width: 62px">
                                                 </div>
                                             </div>
                                             <div class="col-lg-8">
@@ -238,7 +252,7 @@
                                                     tempor incididunt ut labore et dolore magna aliqua.
                                                 </p>
                                                 <button type="button" class="btn btn-primary btn-sm btn-block"><i
-                                                        class="fa fa-envelope"></i> Send Message
+                                                    class="fa fa-envelope"></i> Send Message
                                                 </button>
                                             </div>
                                         </div>
@@ -348,7 +362,7 @@
 
                                                 <div class="m-b-sm">
                                                     <img alt="image" class="img-circle" src="img/a3.jpg"
-                                                         style="width: 62px">
+                                                    style="width: 62px">
                                                 </div>
                                             </div>
                                             <div class="col-lg-8">
@@ -360,7 +374,7 @@
                                                     Many desktop publishing packages and web page editors now use Lorem Ipsum as their default tempor incididunt model text.
                                                 </p>
                                                 <button type="button" class="btn btn-primary btn-sm btn-block"><i
-                                                        class="fa fa-envelope"></i> Send Message
+                                                    class="fa fa-envelope"></i> Send Message
                                                 </button>
                                             </div>
                                         </div>
@@ -459,7 +473,7 @@
 
                                                 <div class="m-b-sm">
                                                     <img alt="image" class="img-circle" src="img/a4.jpg"
-                                                         style="width: 62px">
+                                                    style="width: 62px">
                                                 </div>
                                             </div>
                                             <div class="col-lg-8">
@@ -471,7 +485,7 @@
                                                     Latin professor at Hampden-Sydney College in Virginia, looked  embarrassing hidden in the middle.
                                                 </p>
                                                 <button type="button" class="btn btn-primary btn-sm btn-block"><i
-                                                        class="fa fa-envelope"></i> Send Message
+                                                    class="fa fa-envelope"></i> Send Message
                                                 </button>
                                             </div>
                                         </div>
@@ -580,7 +594,7 @@
 
                                                 <div class="m-b-sm">
                                                     <img alt="image" class="img-circle" src="img/a5.jpg"
-                                                         style="width: 62px">
+                                                    style="width: 62px">
                                                 </div>
                                             </div>
                                             <div class="col-lg-8">
@@ -592,7 +606,7 @@
                                                     Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero,written in 45 BC. This book is a treatise on.
                                                 </p>
                                                 <button type="button" class="btn btn-primary btn-sm btn-block"><i
-                                                        class="fa fa-envelope"></i> Send Message
+                                                    class="fa fa-envelope"></i> Send Message
                                                 </button>
                                             </div>
                                         </div>
@@ -1003,20 +1017,24 @@
                 </div>
             </div>
 
-        </div>
 
-        <?php require_once("includes/footer.php") ?>	
+            <?php require_once("includes/footer.php") ?>    
+        </div>
     </div>
 
-    <!-- Mainly scripts -->
-    <script src="js/jquery-2.1.1.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/plugins/metisMenu/jquery.metisMenu.js"></script>
-    <script src="js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+<!-- Mainly scripts -->
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/plugins/metisMenu/jquery.metisMenu.js"></script>
+<script src="js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
 
-    <!-- Custom and plugin javascript -->
-    <script src="js/inspinia.js"></script>
-    <script src="js/plugins/pace/pace.min.js"></script>
+<!-- Custom and plugin javascript -->
+<script src="js/inspinia.js"></script>
+<script src="js/plugins/pace/pace.min.js"></script>
 
+<script>
+    document.getElementById("suppliers").setAttribute("class", "active"); 
+</script>
 </body>
+
 </html>

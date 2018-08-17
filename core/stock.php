@@ -18,6 +18,20 @@
         <div id="page-wrapper" class="gray-bg dashbard-1">
             <?php require_once("includes/header_bar.php") ?>
 
+            <div class="row wrapper border-bottom white-bg page-heading">
+                <div class="col-lg-8">
+                    <h2>Stock</h2>
+                    <ol class="breadcrumb">
+                        <li>
+                            <a href="index.php">Home</a>
+                        </li>
+                        <li class="active">
+                            <strong>Stock</strong>
+                        </li>
+                    </ol>
+                </div>
+            </div>
+
             <div class="wrapper wrapper-content animated fadeInRight">
 
                 <div class="row">
@@ -146,6 +160,9 @@
         });
     </script>
 
+    <script>
+        document.getElementById("stock").setAttribute("class", "active"); 
+    </script>
 </body>
 
 </html>
