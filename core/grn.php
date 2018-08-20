@@ -128,9 +128,9 @@
                                 </tbody>
                             </table>
 
-                            <div class="text-right">
+                            <div>
                                 <button class="btn btn-danger">Delete GRN</button>
-                                <button class="btn btn-primary">Save GRN</button>
+                                <button class="btn btn-primary pull-right">Save GRN</button>
                             </div>
 
                         </div>

@@ -97,9 +97,10 @@
                             <div class="ibox-content">
                                 <div class="text-center">
 
-                                    <a data-toggle="modal" class="btn btn-primary" href="#modal-form">Form in simple modal box</a>
+                                    <a data-toggle="modal" class="btn btn-primary" href="#modal-form2">Form in simple modal box</a>
+
                                 </div>
-                                <div id="modal-form" class="modal fade" aria-hidden="true">
+                                <div id="modal-form2" class="modal fade" aria-hidden="true">
                                     <div class="modal-dialog">
                                         <div class="modal-content">
                                             <div class="modal-body">
@@ -129,7 +130,28 @@
                                                             </div>
                                                             //////////
                                     
+                                                            <select class="select2_demo_3 form-control" style="width: 500px;">
+                                                                <option value="Mayotte">Mayotte</option>
+                                                                <option value="Mexico">Mexico</option>
+                                                                <option value="Micronesia, Federated States of">Micronesia, Federated States of</option>
+                                                                <option value="Moldova, Republic of">Moldova, Republic of</option>
+                                                                <option value="Monaco">Monaco</option>
+                                                                <option value="Mongolia">Mongolia</option>
+                                                                <option value="Montenegro">Montenegro</option>
+                                                                <option value="Montserrat">Montserrat</option>
+                                                                <option value="Morocco">Morocco</option>
+                                                                <option value="Mozambique">Mozambique</option>
+                                                                <option value="Myanmar">Myanmar</option>
+                                                                <option value="Namibia">Namibia</option>
+                                                                <option value="Nauru">Nauru</option>
+                                                                <option value="Nepal">Nepal</option>
+                                                                <option value="Netherlands">Netherlands</option>
+                                                                <option value="New Caledonia">New Caledonia</option>
+                                                                <option value="New Zealand">New Zealand</option>
+                                                                <option value="Nicaragua">Nicaragua</option>
+                                                            </select>
 
+                                                            /////////////////////////////
                                                         </form>
                                                     </div>
                                                     <div class="col-sm-6"><h4>Not a member?</h4>
@@ -225,10 +247,16 @@
     <script>
         $(document).ready(function(){
 
-            $(".select2_demo_3").select2({
-                placeholder: "Select a state",
-                //allowClear: true
+            
+
+            $(".select2_demo_3").select2({ 
+                dropdownCssClass: 'custom-dropdown'
             });
+
+            $(".select2_demo_3").on('select2:open', function(e){
+                $('.custom-dropdown').parent().css('z-index', 99999);
+            });
+
 
             $('#data_1 .input-group.date').datepicker({
                 todayBtn: "linked",
