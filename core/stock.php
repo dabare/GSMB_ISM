@@ -49,62 +49,99 @@
                                             <th>Qty</th>
                                             <th>Cost Price</th>
                                             <th>On Hand</th>
+                                            <th>Action</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr class="gradeX">
                                             <td>Pen</td>
                                             <td>Red Pen</td>
-                                            <td>105</td>
+                                            <td>
+                                                105 
+                                                <a href="grn.php" class="btn-info btn btn-xs pull-right">View GRN</a>
+                                            </td>
                                             <td align="center">05/08/2018</td>
                                             <td align="right">100</td>
                                             <td align="right">25</td>
                                             <td align="right">80</td>
+                                            <td align="center">
+                                                <a href="stock_transactions.php" class="btn-info btn btn-xs">Transaction</a>
+                                            </td>
                                         </tr>
                                         <tr class="gradeX">
                                             <td>Pen</td>
                                             <td>Blue Pen</td>
-                                            <td>105</td>
+                                            <td>
+                                                105 
+                                                <a href="grn.php" class="btn-info btn btn-xs pull-right">View GRN</a>
+                                            </td>
                                             <td align="center">05/08/2018</td>
                                             <td align="right">100</td>
                                             <td align="right">20</td>
                                             <td align="right">80</td>
+                                            <td align="center">
+                                                <a href="stock_transactions.php" class="btn-info btn btn-xs">Transaction</a>
+                                            </td>
                                         </tr>
                                         <tr class="gradeX">
                                             <td>Pen</td>
                                             <td>Red Pen</td>
-                                            <td>105</td>
+                                            <td>
+                                                105 
+                                                <a href="grn.php" class="btn-info btn btn-xs pull-right">View GRN</a>
+                                            </td>
                                             <td align="center">05/08/2018</td>
                                             <td align="right">100</td>
                                             <td align="right">25</td>
                                             <td align="right">80</td>
+                                            <td align="center">
+                                                <a href="stock_transactions.php" class="btn-info btn btn-xs">Transaction</a>
+                                            </td>
                                         </tr>
                                         <tr class="gradeX">
                                             <td>Pen</td>
                                             <td>Blue Pen</td>
-                                            <td>105</td>
+                                            <td>
+                                                105 
+                                                <a href="grn.php" class="btn-info btn btn-xs pull-right">View GRN</a>
+                                            </td>
                                             <td align="center">05/08/2018</td>
                                             <td align="right">100</td>
                                             <td align="right">20</td>
                                             <td align="right">80</td>
+                                            <td align="center">
+                                                <a href="stock_transactions.php" class="btn-info btn btn-xs">Transaction</a>
+                                            </td>
                                         </tr>
                                         <tr class="gradeX">
                                             <td>Pen</td>
                                             <td>Red Pen</td>
-                                            <td>105</td>
+                                            <td>
+                                                105 
+                                                <a href="grn.php" class="btn-info btn btn-xs pull-right">View GRN</a>
+                                            </td>
                                             <td align="center">05/08/2018</td>
                                             <td align="right">100</td>
                                             <td align="right">25</td>
                                             <td align="right">80</td>
+                                            <td align="center">
+                                                <a href="stock_transactions.php" class="btn-info btn btn-xs">Transaction</a>
+                                            </td>
                                         </tr>
                                         <tr class="gradeX">
                                             <td>Pen</td>
                                             <td>Blue Pen</td>
-                                            <td>105</td>
+                                            <td>
+                                                105 
+                                                <a href="grn.php" class="btn-info btn btn-xs pull-right">View GRN</a>
+                                            </td>
                                             <td align="center">05/08/2018</td>
                                             <td align="right">100</td>
                                             <td align="right">20</td>
                                             <td align="right">80</td>
+                                            <td align="center">
+                                                <a href="stock_transactions.php" class="btn-info btn btn-xs">Transaction</a>
+                                            </td>
                                         </tr>
                                     </tbody>
                                     <tfoot>
@@ -116,6 +153,7 @@
                                             <th>Qty</th>
                                             <th>Cost Price</th>
                                             <th>On Hand</th>
+                                            <th>Action</th>
                                         </tr>
                                     </tfoot>
                                 </table>
@@ -147,16 +185,18 @@
     <!-- Page-Level Scripts -->
     <script>
         $(document).ready(function() {
-            $('.dataTables-example').DataTable({
-                "dom": 'lTfigt',
-                "tableTools": {
-                    "sSwfPath": "js/plugins/dataTables/swf/copy_csv_xls_pdf.swf"
-                }
-            });
-
+           
             /* Init DataTables */
-            var oTable = $('#editable').DataTable();
-
+            var oTable = $('#editable').DataTable( {
+        "columnDefs": [{
+            "searchable": false,
+            "orderable": false,
+            "targets": 0
+        } ],
+        "order": [[ 1, 'asc' ]],
+        "aLengthMenu": [[25, 50, 75, 100, 200, 1000, -1], [25, 50, 75, 100, 200, 1000, "All"]],
+        "iDisplayLength": 100
+    } );
         });
     </script>
 

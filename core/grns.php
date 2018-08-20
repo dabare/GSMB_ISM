@@ -66,7 +66,7 @@
                                         <td align="right">100</td>
                                         <td align="right">25</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-info btn btn-xs">View</a>
+                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                     <tr class="gradeX">
@@ -77,7 +77,7 @@
                                         <td align="right">100</td>
                                         <td align="right">20</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-info btn btn-xs">View</a>
+                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                     <tr class="gradeX">
@@ -88,7 +88,7 @@
                                         <td align="right">100</td>
                                         <td align="right">25</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-info btn btn-xs">View</a>
+                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                     <tr class="gradeX">
@@ -99,7 +99,7 @@
                                         <td align="right">100</td>
                                         <td align="right">20</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-info btn btn-xs">View</a>
+                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                     <tr class="gradeX">
@@ -110,7 +110,7 @@
                                         <td align="right">100</td>
                                         <td align="right">25</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-info btn btn-xs">View</a>
+                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
                                         </tr>
                                         <tr class="gradeX">
                                             <td>Pen</td>
@@ -120,7 +120,7 @@
                                             <td align="right">100</td>
                                             <td align="right">20</td> 
                                             <td align="center">
-                                                <a href="grn.php" class="btn-info btn btn-xs">View</a>
+                                                <a href="grn.php" class="btn-warning btn btn-xs">View</a>
                                             </td>
                                         </tr>
                                     </tbody>

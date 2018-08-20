@@ -30,7 +30,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="title-action">
-                    <a href="grn_print.php" target="_blank" class="btn btn-primary"><i class="fa fa-print"></i> Print Invoice </a>
+                    <a href="grn_print.php" target="_blank" class="btn btn-primary"><i class="fa fa-print"></i> Print GRN </a>
                 </div>
             </div>
         </div>
