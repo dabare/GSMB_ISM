@@ -146,7 +146,7 @@
                                                             </tr>
                                                             <tr>
                                                                 <td class="client-avatar"><a href="#"><img alt="image" src="img/a5.jpg"></a> </td>
-                                                                <td><a data-toggle="tab" href="#contact-3"class="client-link">Edan Randall</a></td>
+                                                                <td><a data-toggle="tab" href="#contact-3" class="client-link">Edan Randall</a></td>
                                                                 <td>Integer Sem Corp.</td>
                                                                 <td class="contact-type"><i class="fa fa-phone"> </i></td>
                                                                 <td> +422 600 213</td>
