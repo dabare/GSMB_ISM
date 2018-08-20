@@ -26,40 +26,40 @@
 					<a href="index.php"><i class="fa fa-th-large"></i> <span class="nav-label">Dashboards</span></a>
 				</li>
 				<li id="mrns">
-					<a href="mrns.php"><i class="fa fa-users"></i> <span class="nav-label">MRN</span></a>
+					<a href="mrns.php"><i class="fa fa-file-text"></i> <span class="nav-label">MRN</span></a>
 				</li>
 				<li id="prns">
-					<a href="prns.php"><i class="fa fa-users"></i> <span class="nav-label">PRN</span></a>
+					<a href="prns.php"><i class="fa fa-pied-piper"></i> <span class="nav-label">PRN</span></a>
 				</li>
 				<li id="pos">
-					<a href="pos.php"><i class="fa fa-users"></i> <span class="nav-label">PO</span></a>
+					<a href="pos.php"><i class="fa fa-arrow-up"></i> <span class="nav-label">PO</span></a>
 				</li>
 				<li id="grns">
-					<a href="grns.php"><i class="fa fa-users"></i> <span class="nav-label">GRN</span></a>
+					<a href="grns.php"><i class="fa fa-arrow-down"></i> <span class="nav-label">GRN</span></a>
 				</li>
 				<li id="mtns">
-					<a href="mtns.php"><i class="fa fa-users"></i> <span class="nav-label">MTN</span></a>
+					<a href="mtns.php"><i class="fa fa-recycle"></i> <span class="nav-label">MTN</span></a>
 				</li>
 				<li id="categories">
-					<a href="categories.php"><i class="fa fa-users"></i> <span class="nav-label">Item Categories</span></a>
+					<a href="categories.php"><i class="fa fa-list"></i> <span class="nav-label">Item Categories</span></a>
 				</li>
 				<li id="items">
-					<a href="items.php"><i class="fa fa-users"></i> <span class="nav-label">Items</span></a>
+					<a href="items.php"><i class="fa fa-cube"></i> <span class="nav-label">Items</span></a>
 				</li>
 				<li id="stock">
-					<a href="stock.php"><i class="fa fa-users"></i> <span class="nav-label">Stock</span></a>
+					<a href="stock.php"><i class="fa fa-cubes"></i> <span class="nav-label">Stock</span></a>
 				</li>
 				<li id="borrowers">
 					<a href="borrowers.php"><i class="fa fa-users"></i> <span class="nav-label">Borrowers</span></a>
 				</li>
 				<li id="suppliers">
-					<a href="suppliers.php"><i class="fa fa-users"></i> <span class="nav-label">Suppliers</span></a>
+					<a href="suppliers.php"><i class="fa fa-truck"></i> <span class="nav-label">Suppliers</span></a>
 				</li>
 				<li id="sites">
-					<a href="sites.php"><i class="fa fa-users"></i> <span class="nav-label">Sites</span></a>
+					<a href="sites.php"><i class="fa fa-globe"></i> <span class="nav-label">Sites</span></a>
 				</li>
 				<li id="users"> 
-					<a href="users.php"><i class="fa fa-users"></i> <span class="nav-label">System Users</span></a>
+					<a href="users.php"><i class="fa fa-user"></i> <span class="nav-label">System Users</span></a>
 				</li>
 			</ul>
 

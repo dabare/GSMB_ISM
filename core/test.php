@@ -97,10 +97,10 @@
                             <div class="ibox-content">
                                 <div class="text-center">
 
-                                    <a data-toggle="modal" class="btn btn-primary" href="#modal-form2">Form in simple modal box</a>
-
+                                    <a data-toggle="modal" class="btn btn-primary" href="#modal-form">Form in simple modal box</a>
+                                    
                                 </div>
-                                <div id="modal-form2" class="modal fade" aria-hidden="true">
+                                <div id="modal-form" class="modal fade" aria-hidden="true">
                                     <div class="modal-dialog">
                                         <div class="modal-content">
                                             <div class="modal-body">
