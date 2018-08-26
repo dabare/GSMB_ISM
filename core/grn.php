@@ -6,7 +6,7 @@
 
 <?php require_once("includes/head.php") ?>
 
-<body>
+<?php require_once("includes/open_body.php") ?>
     <div id="wrapper">
         <?php require_once("includes/side_menu.php") ?>
 
@@ -161,7 +161,7 @@
     <script>
         document.getElementById("grns").setAttribute("class", "active"); 
     </script>
-</body>
+<?php require_once("includes/close_body.php") ?>
 
 <!-- Mirrored from webapplayers.com/inspinia_admin-v2.3/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Oct 2015 10:48:29 GMT -->
 </html>

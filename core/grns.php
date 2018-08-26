@@ -11,7 +11,7 @@
 
 </head>
 
-
+<?php require_once("includes/open_body.php") ?>
 <div id="wrapper">
     <?php require_once("includes/side_menu.php") ?>
 
@@ -111,78 +111,78 @@
                                         <td align="right">25</td>
                                         <td align="center">
                                             <a href="grn.php" class="btn-warning btn btn-xs">View</a>
-                                        </tr>
-                                        <tr class="gradeX">
-                                            <td>Pen</td>
-                                            <td>Blue Pen</td>
-                                            <td>105</td>
-                                            <td align="center">05/08/2018</td>
-                                            <td align="right">100</td>
-                                            <td align="right">20</td> 
-                                            <td align="center">
-                                                <a href="grn.php" class="btn-warning btn btn-xs">View</a>
-                                            </td>
-                                        </tr>
-                                    </tbody>
-                                    <tfoot>
-                                        <tr>
-                                            <th>Item Category</th>
-                                            <th>Item</th>
-                                            <th>GRN Num</th>
-                                            <th>Date</th>
-                                            <th>Qty</th>
-                                            <th>Cost Price</th>
-                                            <th>Action</th>
-                                        </tr>
-                                    </tfoot>
-                                </table>
+                                        </td>
+                                    </tr>
+                                    <tr class="gradeX">
+                                        <td>Pen</td>
+                                        <td>Blue Pen</td>
+                                        <td>105</td>
+                                        <td align="center">05/08/2018</td>
+                                        <td align="right">100</td>
+                                        <td align="right">20</td> 
+                                        <td align="center">
+                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <th>Item Category</th>
+                                        <th>Item</th>
+                                        <th>GRN Num</th>
+                                        <th>Date</th>
+                                        <th>Qty</th>
+                                        <th>Cost Price</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </tfoot>
+                            </table>
 
-                            </div>
                         </div>
                     </div>
                 </div>
-
             </div>
 
-            <?php require_once("includes/footer.php") ?>	
         </div>
 
-        <!-- Mainly scripts -->
-        <script src="js/jquery-2.1.1.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/plugins/metisMenu/jquery.metisMenu.js"></script>
-        <script src="js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
-        <script src="js/plugins/jeditable/jquery.jeditable.js"></script>
+        <?php require_once("includes/footer.php") ?>	
+    </div>
+</div>
+<!-- Mainly scripts -->
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/plugins/metisMenu/jquery.metisMenu.js"></script>
+<script src="js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+<script src="js/plugins/jeditable/jquery.jeditable.js"></script>
 
-        <!-- Data Tables -->
-        <script src="js/plugins/dataTables/jquery.dataTables.js"></script>
-        <script src="js/plugins/dataTables/dataTables.bootstrap.js"></script>
-        <script src="js/plugins/dataTables/dataTables.responsive.js"></script>
-        <script src="js/plugins/dataTables/dataTables.tableTools.min.js"></script>
+<!-- Data Tables -->
+<script src="js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script src="js/plugins/dataTables/dataTables.responsive.js"></script>
+<script src="js/plugins/dataTables/dataTables.tableTools.min.js"></script>
 
-        <!-- Custom and plugin javascript -->
-        <script src="js/inspinia.js"></script>
-        <script src="js/plugins/pace/pace.min.js"></script>
+<!-- Custom and plugin javascript -->
+<script src="js/inspinia.js"></script>
+<script src="js/plugins/pace/pace.min.js"></script>
 
-        <!-- Page-Level Scripts -->
-        <script>
-            $(document).ready(function() {
-                $('.dataTables-example').DataTable({
-                    "dom": 'lTfigt',
-                    "tableTools": {
-                        "sSwfPath": "js/plugins/dataTables/swf/copy_csv_xls_pdf.swf"
-                    }
-                });
+<!-- Page-Level Scripts -->
+<script>
+    $(document).ready(function() {
+        $('.dataTables-example').DataTable({
+            "dom": 'lTfigt',
+            "tableTools": {
+                "sSwfPath": "js/plugins/dataTables/swf/copy_csv_xls_pdf.swf"
+            }
+        });
 
-                /* Init DataTables */
-                var oTable = $('#editable').DataTable();
+        /* Init DataTables */
+        var oTable = $('#editable').DataTable();
 
-            });
-        </script>
-        <script>
-        document.getElementById("grns").setAttribute("class", "active"); 
-    </script>
-    </body>
+    });
+</script>
+<script>
+    document.getElementById("grns").setAttribute("class", "active"); 
+</script>
+<?php require_once("includes/close_body.php") ?>
 
-</body>
 </html>

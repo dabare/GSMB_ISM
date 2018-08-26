@@ -19,7 +19,7 @@
 						</ul>
 					</div>
 					<div class="logo-element">
-						IN+
+						IMS
 					</div>
 				</li>
 				<li id="index">

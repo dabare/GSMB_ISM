@@ -6,3 +6,10 @@
 		
 	</div>
 </div>
+
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+       // $("body").toggleClass("mini-navbar");
+
+	}, false);
+</script>

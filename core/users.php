@@ -6,7 +6,8 @@
 
 
 </head>
-<body>
+
+<?php require_once("includes/open_body.php") ?>
 
     <div id="wrapper">
         <?php require_once("includes/side_menu.php") ?>
@@ -1035,6 +1036,7 @@
 <script>
     document.getElementById("users").setAttribute("class", "active"); 
 </script>
-</body>
+
+<?php require_once("includes/close_body.php") ?>
 
 </html>
