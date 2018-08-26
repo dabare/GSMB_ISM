@@ -36,9 +36,9 @@
 
 	$("#navBarButton").click(function() {
 		if (getCookie("navbar_expand") == "true") {
-			setCookie("navbar_expand","false",3);
+			setCookie("navbar_expand","false",1);
 		}else{
-			setCookie("navbar_expand","true",3);
+			setCookie("navbar_expand","true",1);
 		}
 	});
 	
