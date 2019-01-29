@@ -10,7 +10,6 @@
     <link href="css/plugins/dataTables/dataTables.tableTools.min.css" rel="stylesheet">
 
 </head>
-adooooooooo
 <?php require_once("includes/open_body.php") ?>
 <div id="wrapper">
     <?php require_once("includes/side_menu.php") ?>
