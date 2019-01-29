@@ -61,7 +61,7 @@
                                         <td align="center">05/08/2018</td>
                                         <td align="right">2850.50</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
+                                            <a href="mrn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                     <tr class="gradeX">
@@ -70,7 +70,7 @@
                                         <td align="center">07/08/2018</td>
                                         <td align="right">4850.50</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
+                                            <a href="mrn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                     <tr class="gradeX">
@@ -79,7 +79,7 @@
                                         <td align="center">05/09/2018</td>
                                         <td align="right">7850.50</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
+                                            <a href="mrn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                     <tr class="gradeX">
@@ -88,7 +88,7 @@
                                         <td align="center">08/08/2018</td>
                                         <td align="right">5850.50</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
+                                            <a href="mrn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                     <tr class="gradeX">
@@ -97,7 +97,7 @@
                                         <td align="center">04/09/2018</td>
                                         <td align="right">3850.50</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
+                                            <a href="mrn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                     <tr class="gradeX">
@@ -106,7 +106,7 @@
                                         <td align="center">05/10/2018</td>
                                         <td align="right">850.50</td>
                                         <td align="center">
-                                            <a href="grn.php" class="btn-warning btn btn-xs">View</a>
+                                            <a href="mrn.php" class="btn-warning btn btn-xs">View</a>
                                         </td>
                                     </tr>
                                 </tbody>
